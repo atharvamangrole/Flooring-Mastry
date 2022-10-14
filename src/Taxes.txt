@@ -1,0 +1,3 @@
+TX,Texas,24.00
+NY,New York,28.50
+CA,Calafornia,30.00
